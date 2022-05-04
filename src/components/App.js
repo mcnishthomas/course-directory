@@ -1,6 +1,5 @@
 import React from 'react';
 import {
-  BroswerRouter,
   Route,
   BrowserRouter
 } from 'react-router-dom';
